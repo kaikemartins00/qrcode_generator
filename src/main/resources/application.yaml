@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: qrcode
+server:
+  port: 8081
+
+aws:
+  s3:
+    region: ${AWS_REGION}
+    bucket-name: ${AWS_BUCKET_NAME}

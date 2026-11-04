@@ -135,7 +135,7 @@ aws:
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/kaikemartins00/qrcode_generator
 cd SEU-REPOSITORIO
 ```
 
@@ -197,7 +197,7 @@ Content-Type: application/json
 
 ```json
 {
-  "text": "https://github.com/seu-usuario"
+  "text": "https://github.com/kaikemartins00"
 }
 ```
 
@@ -214,7 +214,7 @@ Content-Type: application/json
 ```bash
 curl -X POST http://localhost:8081/qrcode \
   -H "Content-Type: application/json" \
-  -d '{"text": "https://github.com/seu-usuario"}'
+  -d '{"text": "https://github.com/kaikemartins00"}'
 ```
 
 Abra a URL retornada no navegador para visualizar o QR Code gerado. 🎉
@@ -245,7 +245,7 @@ Abra a URL retornada no navegador para visualizar o QR Code gerado. 🎉
 **Kaike Martins**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaikemartins08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikemartins00)
 
 ---
 

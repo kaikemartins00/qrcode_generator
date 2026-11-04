@@ -197,7 +197,7 @@ Content-Type: application/json
 
 ```json
 {
-  "text": "https://github.com/kaikemartins00"
+  "text": "https://github.com/seu-usuario"
 }
 ```
 

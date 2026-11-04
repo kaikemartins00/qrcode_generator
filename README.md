@@ -231,15 +231,6 @@ Abra a URL retornada no navegador para visualizar o QR Code gerado. 🎉
 
 ---
 
-## 🚧 Próximos passos
-
-- [ ] Parâmetros opcionais (tamanho e cor do QR Code)
-- [ ] Testes unitários e de integração
-- [ ] Documentação interativa com Swagger/OpenAPI
-- [ ] Deploy em nuvem (ECS, EC2 ou similar)
-
----
-
 ## 👨‍💻 Autor
 
 **Kaike Martins**
